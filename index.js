@@ -1,9 +1,9 @@
 
 
-function add(1, 80){
-  number +=1
+function add(a, b){
+  return(a+b)
 }
-console.log(number)
+
 function subtract5(){
   number -=5
   }
