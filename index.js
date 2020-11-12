@@ -1,9 +1,9 @@
 var number = 10
 
-function add1(){
-  number +=2
+function add1("80"){
+  number +=1
 }
-
+console.log(number)
 function subtract5(){
   number -=5
   }
