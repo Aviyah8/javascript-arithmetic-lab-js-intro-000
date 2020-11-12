@@ -18,3 +18,6 @@ function divide2(){
 function increment (number){
   return number +=1
 }
+
+
+function makeInt('80')
