@@ -1,6 +1,6 @@
 
 
-function add1(){
+function add(){
   number +=1
 }
 console.log(number)
