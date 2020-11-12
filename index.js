@@ -4,16 +4,16 @@ function add(a, b){
   return(a+b)
 }
 
-function subtract5(){
-  number -=5
+function subtract(a, b){
+  return (a-b)
   }
 
-function multiply3(){
-  number *=3
+function multiply(a, b){
+  return (a*b)
 }
 
-function divide2(){
-  number /=2
+function divide(){
+  return (a/b)
 }
 function increment (number){
   return number +=1
@@ -24,8 +24,7 @@ function makeInt(string){
   return parseInt(string, 10)
 }
 
-
-makeInt("80")
+function
 
 
 
