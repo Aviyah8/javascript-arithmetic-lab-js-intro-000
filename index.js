@@ -1,4 +1,4 @@
-var number = 10
+
 
 function add1(){
   number +=1
