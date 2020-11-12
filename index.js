@@ -15,6 +15,6 @@ function multiply3(){
 function divide2(){
   number /=2
 }
-function increment(n){
+function increment(number){
   return (number ++)
 }
