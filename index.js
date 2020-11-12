@@ -19,6 +19,8 @@ function increment (number){
   return number +=1
 }
 
+function
+
 
 function makeInt(string){
   return parseInt(string, 10)
