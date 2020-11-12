@@ -16,5 +16,5 @@ function divide2(){
   number /=2
 }
 function increment(number){
-  return (number++)
+  return (++number)
 }
