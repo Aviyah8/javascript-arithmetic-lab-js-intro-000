@@ -21,7 +21,7 @@ function increment (number){
 
 
 function makeInt(string){
-  return pareInntt(string, 10)
+  return parseInt(string, 10)
 }
 
 
