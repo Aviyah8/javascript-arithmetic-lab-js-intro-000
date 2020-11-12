@@ -19,7 +19,9 @@ function increment (number){
   return number +=1
 }
 
-function
+function decrement(number){
+  return number -=1
+}
 
 
 function makeInt(string){
