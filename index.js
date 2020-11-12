@@ -20,4 +20,4 @@ function increment (number){
 }
 
 
-function makeInt('80')
+function makeInt(string)
