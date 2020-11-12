@@ -29,7 +29,7 @@ function makeInt(string){
 }
 
 function preserveDecimal(string){
-  return 
+  return parseFloat (string)
 }
 
 
