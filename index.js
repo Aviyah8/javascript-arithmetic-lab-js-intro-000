@@ -25,7 +25,7 @@ function makeInt(string){
 }
 
 
-makeInt(80)
+makeInt("80")
 
 
 
