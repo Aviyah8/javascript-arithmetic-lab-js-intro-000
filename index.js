@@ -20,4 +20,13 @@ function increment (number){
 }
 
 
-function makeInt(string)
+function makeInt(string){
+  
+}
+
+
+
+
+
+
+
